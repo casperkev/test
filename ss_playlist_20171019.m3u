@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2408", HBO HD
+http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="2583", HBO Signature
+http://103.77.116.238:443//hbo_signature_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="2584", HBO Family
+http://103.77.116.238:443//hbo_family_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://2.bp.blogspot.com/-BBbZAdLOj1Y/WdLYwxPeVkI/AAAAAAAAAHc/TXb5lN4YNaEL0SLprauwDgEnw3YaGfGaQCLcBGAs/s320/028.png" aspect-ratio="16:9", HBO hits
+http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", RED By HBO
+http://103.77.116.238:443//red_by_hbo_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1326", CINEMAX
+http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="2481", FOX Action Movie
+http://103.77.116.238:443//foxactionmovieen_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="159", Fox Family
+http://103.77.116.238:443//ais_foxfamen_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1861", Fox Premium
+http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1303", FX
+http://103.77.116.238:443//fx_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1572", Fox Crime
+http://103.77.116.238:443//fox_crime_480p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1286", thrill
+http://103.77.116.238:443//thrill_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", Fox Thai
+http://103.77.116.238:443//fox_thai_480p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="3534", True Movie Hits
+http://103.77.116.238:443//true_movie_hits_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", True Thai Film
+http://103.77.116.238:443//true_thai_film_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", True Film Asia
+http://103.77.116.238:443//true_film_asia_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", True Asian Series
+http://103.77.116.238:443//true_asian_series_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", True Series
+http://103.77.116.238:443//true_series_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", Doonee
+http://103.77.116.238:443//ais_doonee_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", Celestial Classic Movies
+http://103.77.116.238:443/celestial_classic_movies_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", StarWorld
+http://103.77.116.238:443//starworld_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="2557", Warner Tv
+http://103.77.116.238:443//warner_tv_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="341", Discovery HD world
+http://103.77.116.238:443//discovery_hd_world_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
+http://103.77.116.238:443//discovery_channel_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
+http://sinetv.ddns.net:443/lineballsod4/00_dischannel_480p/chunklist_w1974839117.m3u8?key=99434b6c5b63cabee1c0a44a43b670ef
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://103.77.116.238:443//discovery_science_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="3192", BBC earth
+http://103.77.116.238:443//bbc_earth_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="207", National Geographic HD
+http://103.77.116.238:443//national_geographic_hd_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="164", National Geographic Wild
+http://103.77.116.238:443//national_geographic_wild_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", National Geographic People
+http://103.77.116.238:443//national_geographic_people_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1456", History Channel HD
+http://103.77.116.238:443//history_channel_hd_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1201", H2
+http://103.77.116.238:443//h2_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="2024", fyi
+http://103.77.116.238:443//fyi_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="1285", ci HD
+http://103.77.116.238:443/ci_hd_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", samrojlok
+http://103.77.116.238:443//samrojlok_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", MySci
+http://doballvip.ddns.net:443/free41/0x222_mysci_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+#EXTINF:0 type="stream" channelId="-1", EVE
+http://103.77.116.238:443//eve_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="978", DMAX
+http://103.77.116.238:443/dmax_480p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+http://103.77.116.238:443//animal_planet_720p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="67", TLC
+http://doballvip.ddns.net:443/free53/00_tlc_480p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+#EXTINF:0 type="stream" channelId="-1", SMART SME CHANNEL
+http://103.77.116.238:443/smart_sme_channel_480p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", RAMA CHANNEL
+http://103.77.116.238:443/rama_channel_480p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", true EXPLORE wild
+http://103.77.116.238:443//true_explore_wild_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", true EXPLORE life
+http://103.77.116.238:443//true_explore_life_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
+#EXTINF:0 type="stream" channelId="-1", true EXPLORE sci
+http://103.77.116.238:443//true_explore_sci_360p.stream/playlist.m3u8?st=EgyuNvoUWMlYPbDgDFfffw&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmc35f7654aec7a51b7bbc&e=1508447294
