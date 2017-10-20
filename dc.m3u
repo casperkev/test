@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:0,Channel 1
+#EXTINF:0,d 1
 http://sinetv.ddns.net:443/lineballsod4/00_dischannel_480p/chunklist_w1365473282.m3u8?key=3b9e32a4adbef0213c8945f7b5f51c11
-#EXTINF:0,Channel 2
+#EXTINF:0,d 2
 http://sinetv.ddns.net:443/lineballsod4/0x777_bbcearth_720p/chunklist_w236853757.m3u8?key=7609a1cc32dff801d629aa384462a4c2
-#EXTINF:0,Channel 3
+#EXTINF:0,d 3
 http://sinetv.ddns.net:443/lineballsod4/0x777_discoveryworldhd_720p/chunklist_w1594770965.m3u8?key=908a1b573f03e753c467e96019f1e838
-#EXTINF:0,Channel 4
+#EXTINF:0,d 4
 http://sinetv.ddns.net:443/lineballsod54/0x222_natgeographic_720p/chunklist_w2109293386.m3u8?key=b4bd0e4a6e1e7ccdf0f1b3eaa25f1ace
+#EXTINF:0,d 5
+http://sinetv.ddns.net:443/lineballsod4/0x777_dissci_720p/chunklist_w17658707.m3u8?key=63504eb88a9af2ca6d5137317cadecdf
+#EXTINF:0,m1
+http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohd_720p/chunklist_w361913922.m3u8?key=28fc68924b9a80168fcd657f5a02ccbc
+#EXTINF:0,m2
+http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohit_720p/chunklist_w96786898.m3u8?key=1cb2453880e48e7a7b89b6b2fb7e684c
+#EXTINF:0,m3
+http://sinetv.ddns.net:443/lineballsod53/0x222_ais_cinemax_720p/chunklist_w1781539194.m3u8?key=d134b58cc1d10ab7437ed828af04b7e1
+#EXTINF:0,m4
+http://sinetv.ddns.net:443/lineballsod54/0x222_fxthailand_720p/chunklist_w1826473952.m3u8?key=cee12b9eea3c8c67bda8b3611a703c85
+#EXTINF:0,m5
+http://sinetv.ddns.net:443/lineballsod1/0x777_foxpremiumtruly_720p/chunklist_w1035085206.m3u8?key=705fd1dc535d974f9fbf46a6fac1e7e6
