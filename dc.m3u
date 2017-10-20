@@ -1,21 +1,91 @@
 #EXTM3U
-#EXTINF:0,d 1
-http://sinetv.ddns.net:443/lineballsod4/00_dischannel_480p/chunklist_w1365473282.m3u8?key=3b9e32a4adbef0213c8945f7b5f51c11
-#EXTINF:0,d 2
-http://sinetv.ddns.net:443/lineballsod4/0x777_bbcearth_720p/chunklist_w236853757.m3u8?key=7609a1cc32dff801d629aa384462a4c2
-#EXTINF:0,d 3
-http://sinetv.ddns.net:443/lineballsod4/0x777_discoveryworldhd_720p/chunklist_w1594770965.m3u8?key=908a1b573f03e753c467e96019f1e838
-#EXTINF:0,d 4
-http://sinetv.ddns.net:443/lineballsod54/0x222_natgeographic_720p/chunklist_w2109293386.m3u8?key=b4bd0e4a6e1e7ccdf0f1b3eaa25f1ace
-#EXTINF:0,d 5
-http://sinetv.ddns.net:443/lineballsod4/0x777_dissci_720p/chunklist_w17658707.m3u8?key=63504eb88a9af2ca6d5137317cadecdf
-#EXTINF:0,m1
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohd_720p/chunklist_w361913922.m3u8?key=28fc68924b9a80168fcd657f5a02ccbc
-#EXTINF:0,m2
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohit_720p/chunklist_w96786898.m3u8?key=1cb2453880e48e7a7b89b6b2fb7e684c
-#EXTINF:0,m3
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_cinemax_720p/chunklist_w1781539194.m3u8?key=d134b58cc1d10ab7437ed828af04b7e1
-#EXTINF:0,m4
-http://sinetv.ddns.net:443/lineballsod54/0x222_fxthailand_720p/chunklist_w1826473952.m3u8?key=cee12b9eea3c8c67bda8b3611a703c85
-#EXTINF:0,m5
-http://sinetv.ddns.net:443/lineballsod1/0x777_foxpremiumtruly_720p/chunklist_w1035085206.m3u8?key=705fd1dc535d974f9fbf46a6fac1e7e6
+#EXTINF:0,Channel 1
+http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 2
+http://103.77.116.238:443//hbo_signature_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 3
+http://103.77.116.238:443//hbo_family_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 4
+http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 5
+http://103.77.116.238:443//red_by_hbo_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 6
+http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 7
+http://103.77.116.238:443//foxactionmovieen_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 8
+http://103.77.116.238:443//ais_foxfamen_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 9
+http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 10
+http://103.77.116.238:443//fx_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 11
+http://103.77.116.238:443//fox_crime_480p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 12
+http://103.77.116.238:443//thrill_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 13
+http://103.77.116.238:443//fox_thai_480p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 14
+http://103.77.116.238:443//true_movie_hits_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 15
+http://103.77.116.238:443//true_thai_film_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 16
+http://103.77.116.238:443//true_film_asia_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 17
+http://103.77.116.238:443//true_asian_series_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 18
+http://103.77.116.238:443//true_series_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 19
+http://103.77.116.238:443//ais_doonee_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 20
+http://103.77.116.238:443/ais_zeenung_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 21
+http://103.77.116.238:443/celestial_classic_movies_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 22
+http://103.77.116.238:443//starworld_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 23
+http://103.77.116.238:443//warner_tv_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 24
+http://103.77.116.238:443//discovery_hd_world_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 25
+http://103.77.116.238:443//history_channel_hd_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 26
+http://103.77.116.238:443//h2_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 27
+http://103.77.116.238:443//national_geographic_hd_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 28
+http://103.77.116.238:443//national_geographic_wild_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 29
+http://103.77.116.238:443//national_geographic_people_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 30
+http://103.77.116.238:443//fyi_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 31
+http://103.77.116.238:443/ci_hd_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 32
+http://103.77.116.238:443//samrojlok_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 33
+http://doballvip.ddns.net:443/free41/0x222_mysci_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+#EXTINF:0,Channel 34
+http://103.77.116.238:443//eve_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 35
+http://103.77.116.238:443/dmax_480p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 36
+http://103.77.116.238:443//animal_planet_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 37
+http://103.77.116.238:443//bbc_earth_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 38
+http://103.77.116.238:443//discovery_science_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 39
+http://103.77.116.238:443//discovery_channel_720p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 40
+http://doballvip.ddns.net:443/free53/00_tlc_480p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+#EXTINF:0,Channel 41
+http://103.77.116.238:443/smart_sme_channel_480p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 42
+http://103.77.116.238:443/rama_channel_480p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 43
+http://103.77.116.238:443//true_explore_wild_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 44
+http://103.77.116.238:443//true_explore_life_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
+#EXTINF:0,Channel 45
+http://103.77.116.238:443//true_explore_sci_360p.stream/playlist.m3u8?st=JBt7f9TRYIgr34ljxN7JoQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm79131a7aff83d1698cd4&e=1508533884
