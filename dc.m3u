@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:0,Channel 1
 http://sinetv.ddns.net:443/lineballsod4/00_dischannel_480p/chunklist_w1365473282.m3u8?key=3b9e32a4adbef0213c8945f7b5f51c11
+#EXTINF:0,Channel 2
+http://sinetv.ddns.net:443/lineballsod4/0x777_bbcearth_720p/chunklist_w236853757.m3u8?key=7609a1cc32dff801d629aa384462a4c2
+#EXTINF:0,Channel 3
+http://sinetv.ddns.net:443/lineballsod4/0x777_discoveryworldhd_720p/chunklist_w1594770965.m3u8?key=908a1b573f03e753c467e96019f1e838
+#EXTINF:0,Channel 4
+http://sinetv.ddns.net:443/lineballsod54/0x222_natgeographic_720p/chunklist_w2109293386.m3u8?key=b4bd0e4a6e1e7ccdf0f1b3eaa25f1ace
