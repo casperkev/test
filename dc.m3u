@@ -1,51 +1,407 @@
 #EXTM3U
 #EXTINF:0,Channel 1
-http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free41/0x777_3hd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 2
-http://103.77.116.238:443//hbo_signature_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free41/0x777_2tv5_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 3
-http://103.77.116.238:443//hbo_family_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free41/0x777_mcothd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 4
-http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/00_tvdigital_thairath_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 5
-http://103.77.116.238:443//red_by_hbo_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_springnews_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 6
-http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/00_tvdigital_amarin_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 7
-http://103.77.116.238:443//foxactionmovieen_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/0x777_7hd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 8
-http://103.77.116.238:443//ais_foxfamen_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_tvdigital_workpointtv_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 9
-http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free41/0x777_tvdigital_pptv_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 10
-http://103.77.116.238:443//fx_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/00_tvdigital_newtv_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 11
-http://103.77.116.238:443//thrill_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/00_tvdigital_bright_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 12
-http://103.77.116.238:443//fox_thai_480p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_voice_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 13
-http://103.77.116.238:443//warner_tv_360p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/00_true4u_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 14
-http://103.77.116.238:443//history_channel_hd_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_gmm25_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 15
-http://103.77.116.238:443//national_geographic_hd_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_tvdigital_now_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 16
-http://103.77.116.238:443//h2_360p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/0x777_tvdigital_ch8_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 17
-http://103.77.116.238:443//national_geographic_wild_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_tvdigital_mono_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 18
-http://103.77.116.238:443//national_geographic_people_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free41/0x777_tvdigital_one_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 19
-http://103.77.116.238:443//fyi_360p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_mcotfam_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 20
-http://103.77.116.238:443//samrojlok_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_3sd_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 21
-http://103.77.116.238:443//bbc_earth_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_nation_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 22
-http://103.77.116.238:443//animal_planet_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_3fam_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 23
-http://103.77.116.238:443//discovery_science_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free/00_tppy_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 24
-http://103.77.116.238:443//discovery_channel_720p.stream/playlist.m3u8?st=vs2iVyz6uc-A3Qbb_wkw_w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmma84d9b0d7a68e522378f&e=1508580054
+http://191.96.38.234:443/free53/00_mcot1_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
 #EXTINF:0,Channel 25
-
+http://191.96.38.234:443/free53/00_2nbt_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 26
+http://191.96.38.234:443/free53/0x222_ais_hbohd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 27
+http://191.96.38.234:443/free53/0x222_ais_hbosignature_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 28
+http://191.96.38.234:443/free53/0x222_ais_hbofam_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 29
+http://191.96.38.234:443/free53/0x222_ais_hbohit_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 30
+http://191.96.38.234:443/free53/0x222_ais_redbyhbo_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 31
+http://191.96.38.234:443/free53/0x222_ais_cinemax_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 32
+http://191.96.38.234:443/free54/0x222_foxactionmovieen_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 33
+http://191.96.38.234:443/free53/0x222_ais_foxfamen_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 34
+http://191.96.38.234:443/free/0x777_foxpremiumtruly_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 35
+http://191.96.38.234:443/free54/0x222_fxthailand_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 36
+http://191.96.38.234:443/free54/0x222_foxcrimehdthai_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 37
+http://191.96.38.234:443/free54/0x222_thrill_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 38
+http://191.96.38.234:443/free/00_foxthai_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 39
+http://191.96.38.234:443/free/00_moviehits_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 40
+http://191.96.38.234:443/free/00_2thaifilm_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 41
+http://191.96.38.234:443/free/00_filmasia_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 42
+http://191.96.38.234:443/free/00_2asianseries_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 43
+http://191.96.38.234:443/free/00_2series_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 44
+http://191.96.38.234:443/free53/0x222_ais_doonee_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 45
+http://191.96.38.234:443/free53/0x222_ais_zeenung_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 46
+http://191.96.38.234:443/free54/0x222_ccm_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 47
+http://191.96.38.234:443/free54/0x222_starworldhdthai_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 48
+http://191.96.38.234:443/free54/0x777_warnertv_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 49
+http://191.96.38.234:443/free41/0x777_discoveryworldhd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 50
+http://191.96.38.234:443/free41/0x777_historyhd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 51
+http://191.96.38.234:443/free41/0x777_h2hd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 52
+http://191.96.38.234:443/free54/0x222_natgeographic_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 53
+http://191.96.38.234:443/free54/0x222_natgeowild_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 54
+http://191.96.38.234:443/free54/0x222_natgeopeople_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 55
+http://191.96.38.234:443/free54/0x222_fyihdthai_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 56
+http://191.96.38.234:443/free54/0x222_cihd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 57
+http://191.96.38.234:443/free41/0x777_samrujlok_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 58
+http://191.96.38.234:443/free53/0x222_mysci_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 59
+http://191.96.38.234:443/free41/0x222_evehd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 60
+http://191.96.38.234:443/free41/0x777_dmaxhd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 61
+http://191.96.38.234:443/free41/0x777_animalplanet_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 62
+http://191.96.38.234:443/free41/0x777_bbcearth_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 63
+http://191.96.38.234:443/free41/0x777_dissci_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 64
+http://191.96.38.234:443/free41/00_dischannel_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 65
+http://191.96.38.234:443/free53/00_tlc_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 66
+http://191.96.38.234:443/free/00_smechannel_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 67
+http://191.96.38.234:443/free/00_rama_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 68
+http://191.96.38.234:443/free/00_exp1_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 69
+http://191.96.38.234:443/free53/00_exp2_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 70
+http://191.96.38.234:443/free53/00_exp3_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 71
+http://191.96.38.234:443/free54/0x222_dwchannel_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 72
+http://191.96.38.234:443/free54/0x222_nhkworldtv_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 73
+http://191.96.38.234:443/free54/0x222_france24_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 74
+http://191.96.38.234:443/free54/0x222_euronews_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 75
+http://191.96.38.234:443/free54/0x222_skynewshd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 76
+http://191.96.38.234:443/free54/0x222_foxnewsthai_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 77
+http://191.96.38.234:443/free54/0x222_newsasia_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 78
+http://191.96.38.234:443/free53/00_cctv_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 79
+http://191.96.38.234:443/free53/00_tnn24_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 80
+http://191.96.38.234:443/free53/00_tnn2_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 81
+http://191.96.38.234:443/free/00_moneychannel_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 82
+http://191.96.38.234:443/free41/0x222_disneyxd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 83
+http://191.96.38.234:443/free41/0x777_discoverykids_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 84
+http://191.96.38.234:443/free54/0x222_nickjrthai_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 85
+http://191.96.38.234:443/free41/0x222_toonami_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 86
+http://191.96.38.234:443/free53/00_spark_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 87
+http://191.96.38.234:443/free/00_sparkjump_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 88
+http://191.96.38.234:443/free/00_disney_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 89
+http://191.96.38.234:443/free53/00_gangcartoon_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 90
+http://191.96.38.234:443/free53/00_boomerang_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 91
+http://191.96.38.234:443/free/0x777_beinsport1_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 92
+http://191.96.38.234:443/free/0x777_beinsporthd2_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 93
+http://191.96.38.234:443/free/0x777_beinsporthd3_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 94
+http://191.96.38.234:443/free/0x777_beinsporthd4_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 95
+http://191.96.38.234:443/free/0x777_beinsporthd5_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 96
+http://191.96.38.234:443/free/0x777_beinsporthd6_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 97
+http://191.96.38.234:443/free54/0x777_2sporthd1_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 98
+http://191.96.38.234:443/free54/0x777_2sporthd2_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 99
+http://191.96.38.234:443/free54/0x777_2sporthd3_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 100
+http://191.96.38.234:443/free54/0x777_2sporthd4_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 101
+http://191.96.38.234:443/free/00_2sport1_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 102
+http://191.96.38.234:443/free/00_2sport2_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 103
+http://191.96.38.234:443/free/00_2sport3_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 104
+http://191.96.38.234:443/free/00_2sport5_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 105
+http://191.96.38.234:443/free/00_2sport6_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 106
+http://191.96.38.234:443/free53/00_2sport7_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 107
+http://191.96.38.234:443/free/0x777_truetennis_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 108
+http://191.96.38.234:443/free54/0x777_2nba_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 109
+http://191.96.38.234:443/free54/0x777_golfchannel_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 110
+http://191.96.38.234:443/free53/0x222_ais_foxsport1_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 111
+http://191.96.38.234:443/free53/0x222_ais_foxsport2_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 112
+http://191.96.38.234:443/free53/0x222_ais_foxsport3_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 113
+http://191.96.38.234:443/free/00_speedchannel_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 114
+http://191.96.38.234:443/free53/00_siamsportnews_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 115
+http://191.96.38.234:443/free53/00_siamsportfootball_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 116
+http://191.96.38.234:443/free53/0x539_tsports_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 117
+http://191.96.38.234:443/free/00_smmtv_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 118
+http://191.96.38.234:443/free53/0x222_ais_fightsport_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 119
+http://191.96.38.234:443/free/0x444_bein1turkey_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 120
+http://191.96.38.234:443/free/0x444_bein2turkey_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 121
+http://191.96.38.234:443/free/0x222_bein1indo_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 122
+http://191.96.38.234:443/free41/0x222_bein2indo_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 123
+http://191.96.38.234:443/free41/0x444_bein1france_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 124
+http://191.96.38.234:443/free41/0x444_bein2france_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 125
+http://191.96.38.234:443/free54/0x444_mutv_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 126
+http://191.96.38.234:443/free54/0x444_lfctv_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 127
+http://191.96.38.234:443/free54/0x444_chelseatv_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 128
+http://191.96.38.234:443/free41/0x777_skynetsporthd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 129
+http://191.96.38.234:443/free41/00_skynetsport1_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 130
+http://191.96.38.234:443/free41/00_skynetsport2_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 131
+http://191.96.38.234:443/free41/00_skynetsport3_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 132
+http://191.96.38.234:443/free41/00_skynetsport4_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 133
+http://191.96.38.234:443/free41/00_skynetsport5_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 134
+http://191.96.38.234:443/free41/00_skynetsport6_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 135
+http://191.96.38.234:443/free/0x777_eurosport_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 136
+http://191.96.38.234:443/free54/0x444_eurosportuk1_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 137
+http://191.96.38.234:443/free54/0x444_eurosportuk2_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 138
+http://191.96.38.234:443/free41/0x777_espnhd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 139
+http://191.96.38.234:443/free41/0x222_nbahd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 140
+http://191.96.38.234:443/free41/0x222_sonyespn_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 141
+http://191.96.38.234:443/free41/0x222_sonysix_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 142
+http://191.96.38.234:443/free53/0x444_skysportmaineventmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 143
+http://191.96.38.234:443/free53/0x444_skysportcricketmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 144
+http://191.96.38.234:443/free53/0x444_skysportactionmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 145
+http://191.96.38.234:443/free53/0x444_skysportgolfmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 146
+http://191.96.38.234:443/free53/0x444_skysportpremieremanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 147
+http://191.96.38.234:443/free54/0x444_skysportf1manic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 148
+http://191.96.38.234:443/free53/0x444_skysportfootball_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 149
+http://191.96.38.234:443/free53/0x444_skysportarena_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 150
+http://191.96.38.234:443/free53/0x444_skysportmixmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 151
+http://191.96.38.234:443/free53/0x444_skysportnewsmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 152
+http://191.96.38.234:443/free41/0x444_astro1my_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 153
+http://191.96.38.234:443/free54/0x444_btsport1manic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 154
+http://191.96.38.234:443/free54/0x444_btsport2manic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 155
+http://191.96.38.234:443/free54/0x444_btsport3manic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 156
+http://191.96.38.234:443/free54/0x444_btsportespnmanic_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 157
+http://191.96.38.234:443/free53/0x444_eirsport2_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 158
+http://191.96.38.234:443/free41/0x444_sporttv1_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 159
+http://191.96.38.234:443/free41/0x444_sporttv2_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 160
+http://191.96.38.234:443/free41/0x444_sporttv3_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 161
+http://191.96.38.234:443/free41/0x444_sporttv4_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 162
+http://191.96.38.234:443/free41/0x444_sporttv5_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 163
+http://191.96.38.234:443/free41/0x444_ss3albania_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 164
+http://191.96.38.234:443/free41/0x444_ss4albania_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 165
+http://191.96.38.234:443/free53/0x444_diema1bg_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 166
+http://191.96.38.234:443/free41/0x444_dolce1_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 167
+http://191.96.38.234:443/free41/0x444_tv2sportpremium2_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 168
+http://191.96.38.234:443/free41/0x444_tv2sportpremium3_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 169
+http://191.96.38.234:443/free53/0x444_futbol1ukr_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 170
+http://191.96.38.234:443/free53/0x444_futbol2ukr_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 171
+http://191.96.38.234:443/free53/0x444_tv3sport1dk_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 172
+http://191.96.38.234:443/free53/0x444_polsatpo_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 173
+http://191.96.38.234:443/free53/0x444_teleclub1sw_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 174
+http://191.96.38.234:443/free53/0x444_teleclub2sw_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 175
+http://191.96.38.234:443/free53/0x444_sportv1br_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 176
+http://191.96.38.234:443/free53/0x444_pfc_360p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 177
+http://191.96.38.234:443/free54/0x222_jkn_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 178
+http://191.96.38.234:443/free53/0x222_ais_gvtv_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 179
+http://191.96.38.234:443/free53/0x222_ais_gvv_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 180
+http://191.96.38.234:443/free53/0x222_ais_gvx_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 181
+http://191.96.38.234:443/free54/0x222_arirang_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 182
+http://191.96.38.234:443/free53/0x222_scc_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 183
+http://191.96.38.234:443/free41/0x777_axnhd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 184
+http://191.96.38.234:443/free54/0x222_fashiontvsd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 185
+http://191.96.38.234:443/free41/0x222_lifestylehd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 186
+http://191.96.38.234:443/free/00_real_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 187
+http://191.96.38.234:443/free/00_xzyte_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 188
+http://191.96.38.234:443/free/00_homeandfood_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 189
+http://191.96.38.234:443/free/00_chicchannel_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 190
+http://191.96.38.234:443/free/00_travelchannel_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 191
+http://191.96.38.234:443/free/00_superbunteng_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 192
+http://191.96.38.234:443/free53/00_miracle_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 193
+http://191.96.38.234:443/free/00_tgn_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 194
+http://191.96.38.234:443/free/00_tgn2_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 195
+http://191.96.38.234:443/free/00_etv_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 196
+http://191.96.38.234:443/free54/0x222_mtvlivehd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 197
+http://191.96.38.234:443/free54/0x222_mtvasia_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 198
+http://191.96.38.234:443/free54/0x222_mtvchina_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 199
+http://191.96.38.234:443/free54/0x222_chvinter_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 200
+http://191.96.38.234:443/free54/0x222_traceurbanhd_720p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 201
+http://191.96.38.234:443/free/00_very_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 202
+http://191.96.38.234:443/free/00_2music_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
+#EXTINF:0,Channel 203
+http://191.96.38.234:443/free/00_thaithai_480p/playlist.m3u8?key=q3xg6afphbpxa9pfmgynncu5
